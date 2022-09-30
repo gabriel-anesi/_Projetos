@@ -1,4 +1,4 @@
-<h3 align="center" dir="auto">Repositório aonde posto projetos diversos.
+<h3 align="center" dir="auto">Repositório aonde posto projetos diversos, para praticar conforme os estudos.
 <br></br>
 <hr>
 Sorteador de personagem
