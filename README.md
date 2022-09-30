@@ -4,8 +4,8 @@
 Projeto 01 - Sorteador de personagem
 <hr>
 <br>
-<a href="https://gabriel-anesi.github.io/_Estudos/01%20-%20medicenter">Acessar página</a>
+<a href="https://gabriel-anesi.github.io/_Projetos/Sorteador%20de%20personagem">Acessar página</a>
 </br><br>
-<img src="https://github.com/gabriel-anesi/_Estudos/blob/master/01%20-%20medicenter/images/gabriel-anesi.github.io__Estudos_01%2520-%2520medicenter_.png" height="500px">
+<img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Sorteador%20de%20personagem/images/imagem%20do%20site.png" height="500px">
 <br></br>
 <hr>
