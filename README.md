@@ -1,7 +1,7 @@
 <h3 align="center" dir="auto">Repositório aonde posto projetos diversos.
 <br></br>
 <hr>
-Projeto 01 - Sorteador de personagem
+Sorteador de personagem
 <hr>
 <br>
 <a href="https://gabriel-anesi.github.io/_Projetos/Sorteador%20de%20personagem">Acessar página</a>
