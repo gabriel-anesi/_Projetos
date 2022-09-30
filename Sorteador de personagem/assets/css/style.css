@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat, Roboto, Arial, Helvetica, sans-serif;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    overflow: hidden;
+    background-image: url(../../images/bg1.png);
+    background-position: center;
+    background-size: cover;
+
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(236, 144, 0, 0.5); 
+    color: white;
+    text-shadow: 4px 2px 3px black;
+    box-shadow: 10px 5px 20px black;
+    width: 60vw;
+    height: 40vh;
+}
+
+#campeao {
+    display: flex;
+    flex-direction: column;
+    height: 10vh;
+    padding: 10vh;
+    font-size: 40px;
+    color: black;
+    text-shadow: 3px 2px 5px white;
+    font-weight: 600;
+
+}
+
+
+#gerar_campeao {
+    padding: 10px;
+    background-color: #0f242d;
+    border: none;
+    color: white;
+    width: 15vw;
+    font-size: 15px;
+}
+
+#gerar_campeao:hover {
+    border: 1px solid white;
+}
+
+@media (max-width:900px) {
+    h1 {
+       font-size: 20px;
+       text-align: center;
+    }
+    
+    #gerar_campeao {
+        width: 30vw;
+    }
+}
+
+
+@media (max-width:600px) {
+    h1 {
+       font-size: 15px;
+       text-align: center;
+    }
+    
+    #campeao {
+        font-size: 20px;
+    }
+
+
+    #gerar_campeao {
+        width: 30vw;
+    }
+}
