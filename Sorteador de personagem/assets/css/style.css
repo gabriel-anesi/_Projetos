@@ -11,7 +11,7 @@ body {
 
 header {
     height: 80px;
-    background-color: #081519;
+    background-color: #185c66;
     border-bottom: 2px solid #547a8c;
 }
 
@@ -68,7 +68,7 @@ header .header-image a {
 
 #gerar_campeao {
     padding: 10px;
-    background-color: #0f242d;
+    background-color: #0e353c;
     border: none;
     color: white;
     width: 15vw;
@@ -82,7 +82,7 @@ header .header-image a {
 
 footer {
     height: 8vh;
-    background-color: #081519;
+    background-color: #185c66;
     border-top: 2px solid #547a8c;
 }
 
