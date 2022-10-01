@@ -6,6 +6,6 @@ Sorteador de personagem
 <br>
 <a href="https://gabriel-anesi.github.io/_Projetos/Sorteador%20de%20personagem">Acessar página</a>
 </br><br>
-<img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Sorteador%20de%20personagem/images/imagem%20do%20site%202.png" height="500px">
+<img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Sorteador%20de%20personagem/images/imagem%20do%20site%203.png" height="500px">
 <br></br>
 <hr>
