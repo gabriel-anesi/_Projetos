@@ -5,6 +5,10 @@
     font-family: Montserrat, Roboto, Arial, Helvetica, sans-serif;
 }
 
+body {
+    overflow-y: hidden;
+}
+
 header {
     height: 80px;
     background-color: #081519;
@@ -32,7 +36,7 @@ header .header-image a {
     background-image: url(../../images/bg1.png);
     background-position: center;
     background-size: cover;
-    height: 82vh;
+    height: 84vh;
 
 }
 
