@@ -5,16 +5,34 @@
     font-family: Montserrat, Roboto, Arial, Helvetica, sans-serif;
 }
 
+header {
+    height: 80px;
+    background-color: #081519;
+    border-bottom: 2px solid #547a8c;
+}
+
+header .header-image {
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+header .header-image a {
+    display: flex;
+    justify-content: center;
+    height: 60px;
+}
+
 .container {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     overflow: hidden;
     background-image: url(../../images/bg1.png);
     background-position: center;
     background-size: cover;
+    height: 82vh;
 
 }
 
@@ -54,7 +72,14 @@
 }
 
 #gerar_campeao:hover {
-    border: 1px solid white;
+    border: 1px solid #00ffe4;
+    margin-top: -2px; /* Pra não levantar os campos #campeao e h1 */
+}
+
+footer {
+    height: 8vh;
+    background-color: #081519;
+    border-top: 2px solid #547a8c;
 }
 
 @media (max-width:900px) {
