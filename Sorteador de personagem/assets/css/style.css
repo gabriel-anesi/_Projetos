@@ -99,6 +99,16 @@ footer {
 
 
 @media (max-width:600px) {
+
+    .container {
+        margin-top: -1vh;
+        height: 75vh;
+    }    
+
+    .field {
+        height: 60vh;
+    }
+
     h1 {
        font-size: 15px;
        text-align: center;
@@ -108,8 +118,11 @@ footer {
         font-size: 20px;
     }
 
-
     #gerar_campeao {
         width: 30vw;
+    }
+
+    footer {
+        height: 20vh;
     }
 }
