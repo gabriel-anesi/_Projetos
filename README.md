@@ -4,7 +4,7 @@
 <p>Repo where I post miscellaneous projects, to practice while studying.</p>
 <br>
 <hr>
-<h3 align="center">Sorteador de personagem do Paladins - Paladins Character draw</h3>
+<h2 align="center">Sorteador de personagem do Paladins - Paladins Character draw</h2>
 <hr>
 <br>
 <a dir="auto" href="https://gabriel-anesi.github.io/_Projetos/Sorteador%20de%20personagem">Acessar página</a>
