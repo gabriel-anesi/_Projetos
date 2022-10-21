@@ -8,7 +8,7 @@
 <br>
 <h3><a dir="auto" href="https://gabriel-anesi.github.io/_Projetos/Pinturas%20do%20Gabriel">Acessar página</a></h3>
 </br><br>
-<img src="https://https://github.com/gabriel-anesi/_Projetos/blob/master/Pinturas%20do%20Gabriel/assets/images/imagem%20site.png" height="500px">
+<img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Pinturas%20do%20Gabriel/assets/images/imagem%20site.png" height="500px">
 <br></br>
 <hr>
 <h3>Sorteador de personagem do Paladins - Paladins Character draw</h3>
