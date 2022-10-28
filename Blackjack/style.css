@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background-image: url(../Blackjack/images/bg.jpg);
+    background-size: cover;
+    font-weight: bold;
+
+}
+
+h1 {
+    color: goldenrod;
+    font-size: 60px;
+    font-weight: 500;
+}
+
+p {
+    color: white;
+    font-size: 30px;
+}
+
+
+h1, p {
+    padding: 20px;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    border: none;
+    padding: 10px;
+    margin: 5px;
+    color: #016f32;
+    font-weight: bolder;
+    font-size: 25px;
+    width: 250px;
+    background-color: goldenrod;
+    border-radius: 3px;
+}
