@@ -3,6 +3,14 @@
 <p>Repo where I post miscellaneous projects, to practice while studying.</p>
 <br>
 <hr>
+<h3>People counter app</h3>
+<hr>
+<br>
+<h3><a dir="auto" href="https://gabriel-anesi.github.io/_Projetos/People%20counter%20app">Acessar página</a></h3>
+</br><br>
+<img src="https://github.com/gabriel-anesi/_Projetos/blob/master/People%20counter%20app/images/imagem%20site.png" height="500px">
+<br></br>
+<hr>
 <h3>Pinturas do Gabriel - Gabriel's paintings</h3>
 <hr>
 <br>
