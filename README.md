@@ -6,6 +6,8 @@
 <h3>People counter app</h3>
 <hr>
 <br>
+<p>Source: 
+freeCodeCamp.org JavaScript Programming - Full Course <a dir="auto" href="https://www.youtube.com/watch?v=jS4aFq5-91M&t=4546s">Youtube link</a></p>
 <h3><a dir="auto" href="https://gabriel-anesi.github.io/_Projetos/People%20counter%20app">Acessar página</a></h3>
 </br><br>
 <img src="https://github.com/gabriel-anesi/_Projetos/blob/master/People%20counter%20app/images/imagem%20site.png" height="500px">
