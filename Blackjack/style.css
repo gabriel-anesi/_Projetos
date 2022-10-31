@@ -57,3 +57,13 @@ button {
     background-color: goldenrod;
     border-radius: 3px;
 }
+
+
+#newcard-button {
+    display: none;
+}
+
+#restart-button {
+    display: none;
+}
+
