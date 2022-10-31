@@ -1,5 +1,5 @@
 let player = {
-    name: "Gabriel",
+    name: "Player",
     chips: 145
 }
 
@@ -56,6 +56,10 @@ function renderGame() {
     } else {
         message = "You're out of the game!";
         isAlive = false;
+    }
+    if (hasBlackJack === true) {
+        newCardButton.style.display = 'none';
+        restartGame.style.display = 'block';
     }
     messageEl.textContent = message;
 }
