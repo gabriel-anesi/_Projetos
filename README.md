@@ -3,6 +3,16 @@
 <p>Repo where I post miscellaneous projects, to practice while studying.</p>
 <br>
 <hr>
+<h3>Age calculator</h3>
+<hr>
+<br>
+<p>Source: 
+Age Calculator using JavaScript | Coding Torque <a dir="auto" href="https://www.codingtorque.com/2022/07/age-calculator-using-javascript-coding.html">Website link</a></p>
+<h3><a dir="auto" href="https://gabriel-anesi.github.io/_Projetos/Age%20calculator">Acessar página</a></h3>
+</br><br>
+<img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Age%20calculator/images/imagem%20site.png" height="500px">
+<br></br>
+<hr>
 <h3>Blackjack</h3>
 <hr>
 <br>
@@ -11,6 +21,16 @@ freeCodeCamp.org JavaScript Programming - Full Course <a dir="auto" href="https:
 <h3><a dir="auto" href="https://gabriel-anesi.github.io/_Projetos/Blackjack">Acessar página</a></h3>
 </br><br>
 <img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Blackjack/images/imagem%20site.png" height="500px">
+<br></br>
+<hr>
+<h3>Calculator</h3>
+<hr>
+<br>
+<p>Source: 
+Glassmorphic Calculator using HTML, CSS and JavaScript - Coding Torque <a dir="auto" href="https://www.codingtorque.com/2022/09/glassmorphic-calculator-using-html-css.html">Website link</a></p>
+<h3><a dir="auto" href="https://gabriel-anesi.github.io/_Projetos/Calculator">Acessar página</a></h3>
+</br><br>
+<img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Calculator/images/imagem%20site.png" height="500px">
 <br></br>
 <hr>
 <h3>People counter app</h3>
