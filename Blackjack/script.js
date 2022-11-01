@@ -46,7 +46,7 @@ function startGame() {
 }
 
 function renderGame() {
-    cardsEl.textContent = "Cards: " + cards;
+    cardsEl.textContent = "Cards: " + cards.join(" - ");
     for(let i = 0; i > cards.length; i++) {
         cards.textContent += cards[i];
     }
