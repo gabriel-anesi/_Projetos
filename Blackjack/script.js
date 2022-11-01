@@ -3,6 +3,9 @@ let player = {
     chips: 145
 }
 
+let playerEl = document.getElementById("player-el");
+playerEl.textContent = player.name + ": $" + player.chips;
+
 let cards = [];
 let sum = 0;
 let hasBlackJack = false; //At first, you don't have a blackjack
@@ -11,8 +14,8 @@ let message = '';
 let messageEl = document.getElementById('message-el');
 let sumEl = document.querySelector('#sum-el');//let sumEl = document.getElementById('sum-el');
 let cardsEl = document.getElementById('cards-el');
-let playerEl = document.getElementById("player-el");
-playerEl.textContent = player.name + ": $" + player.chips;
+
+
 let startButton = document.getElementById('start-button');
 let newCardButton = document.getElementById('newcard-button');
 let restartGame = document.getElementById('restart-button');
@@ -34,7 +37,7 @@ function startGame() {
     let secondCard = getRandomCard();
     cards = [firstCard, secondCard];
     sum = firstCard + secondCard;
-    if (sum > 4) {
+    if (sum > 1) {
         startButton.style.display = 'none';
         newCardButton.style.display = 'block';
 
