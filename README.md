@@ -3,7 +3,7 @@
 <p>Repo where I post miscellaneous projects, to practice while studying.</p>
 <br>
 <hr>
-<h3>Age calculator</h3>
+<h3>Calculador de igade - Age calculator</h3>
 <hr>
 <br>
 <p>Source: 
@@ -13,19 +13,20 @@ Age Calculator using JavaScript | Coding Torque <a dir="auto" href="https://www.
 <img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Age%20calculator/images/imagem%20site.png" height="500px">
 <br></br>
 <hr>
-<h3>Blackjack</h3>
+<h3>21 - Blackjack</h3>
 <hr>
 <br>
 <p>Source: 
 freeCodeCamp.org JavaScript Programming - Full Course <a dir="auto" href="https://www.youtube.com/watch?v=jS4aFq5-91M&t=4546s">Youtube link</a></p>
 <h3><a dir="auto" href="https://gabriel-anesi.github.io/_Projetos/Blackjack">Acessar página</a></h3>
 </br>
+<p>OBS: Fiz algumas mudanças do projeto original.</p>
 <p>PS: I've done some changes to the original project.</p>
 <br>
 <img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Blackjack/images/imagem%20site.png" height="500px">
 <br></br>
 <hr>
-<h3>Calculator</h3>
+<h3>Calculadora - Calculator</h3>
 <hr>
 <br>
 <p>Source: 
@@ -35,7 +36,7 @@ Glassmorphic Calculator using HTML, CSS and JavaScript - Coding Torque <a dir="a
 <img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Calculator/images/imagem%20site.png" height="500px">
 <br></br>
 <hr>
-<h3>People counter app</h3>
+<h3>App para contar pessoas - People counter app</h3>
 <hr>
 <br>
 <p>Source: 
