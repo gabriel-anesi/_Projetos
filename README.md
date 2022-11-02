@@ -3,7 +3,7 @@
 <p>Repo where I post miscellaneous projects, to practice while studying.</p>
 <br>
 <hr>
-<h3>Calculador de igade - Age calculator</h3>
+<h3>Calculador de idade - Age calculator</h3>
 <hr>
 <br>
 <p>Source: 
