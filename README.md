@@ -36,6 +36,16 @@ Glassmorphic Calculator using HTML, CSS and JavaScript - Coding Torque <a dir="a
 <img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Calculator/images/imagem%20site.png" height="500px">
 <br></br>
 <hr>
+<h3>Extensão para o Chrome - Chrome extension</h3>
+<hr>
+<br>
+<p>Source: 
+freeCodeCamp.org JavaScript Programming - Full Course <a dir="auto" href="https://www.youtube.com/watch?v=jS4aFq5-91M&t=4546s">Youtube link</a></p>
+<h3><a dir="auto" href="https://gabriel-anesi.github.io/_Projetos/Chrome%20extension">Acessar página</a></h3>
+</br><br>
+<img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Calculator/images/imagem%20site.png" height="500px">
+<br></br>
+<hr>
 <h3>App para contar pessoas - People counter app</h3>
 <hr>
 <br>
