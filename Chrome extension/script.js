@@ -21,7 +21,10 @@ for(let i = 0; i < myLeads.length; i++) {
     li.textContent = myLeads[i];
     ulEl.append(li) //appending li to ul */
 
-    listItems += "<li><a target='_blank' href= '" + 'https://' + myLeads[i] + "'>" + myLeads[i] + "</a></li>";
+    listItems += `
+    <li>
+    <a target="_blank" href=https://${myLeads[i]}>https://${myLeads[i]}
+    </a></li>`;
 }
     ulEl.innerHTML = listItems;
 }
