@@ -29,71 +29,71 @@
         <table>
             <tr>
                 <td>
-                    <button style="color: #ff0000;" onclick="clr()">C</button>
+                    <button style="color: #ff0000;" id="clear" onclick="clear()">C</button>
                 </td>
                 <td>
-                    <button style="color: deepskyblue;" onclick="dis('/')">/</button>
+                    <button style="color: deepskyblue;" id="divide" onclick="divide()">/</button>
                 </td>
                 <td>
-                    <button style="color: deepskyblue;" onclick="dis('%')">%</button>
+                    <button style="color: deepskyblue;" id="percent" onclick="percent()">%</button>
                 </td>
                 <td>
-                    <button style="color: deepskyblue;" onclick="backspace()">
+                    <button style="color: deepskyblue;" id="erase" onclick="backspace()">
                         <i class="fas fa-backspace"></i>
                     </button>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <button onclick="dis('7')">7</button>
+                    <button id="seven" onclick="show7()">7</button>
                 </td>
                 <td>
-                    <button onclick="dis('8')">8</button>
+                    <button id="eight" onclick="show8()">8</button>
                 </td>
                 <td>
-                    <button onclick="dis('9')">9</button>
+                    <button id="nine" onclick="show9()">9</button>
                 </td>
                 <td>
-                    <button style="color: deepskyblue;" onclick="dis('*')">x</button>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <button onclick="dis('4')">4</button>
-                </td>
-                <td>
-                    <button onclick="dis('5')">5</button>
-                </td>
-                <td>
-                    <button onclick="dis('6')">6</button>
-                </td>
-                <td>
-                    <button style="color: deepskyblue;" onclick="dis('-')">-</button>
+                    <button style="color: deepskyblue;" onclick="multiply()">x</button>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <button onclick="dis('1')">1</button>
+                    <button id="four" onclick="show4()">4</button>
                 </td>
                 <td>
-                    <button onclick="dis('2')">2</button>
+                    <button id="five" onclick="show5()">5</button>
                 </td>
                 <td>
-                    <button onclick="dis('3')">3</button>
+                    <button id="six" onclick="show6()">6</button>
                 </td>
                 <td>
-                    <button style="color: deepskyblue;" onclick="dis('+')">+</button>
+                    <button style="color: deepskyblue;" onclick="subtract()">-</button>
                 </td>
             </tr>
             <tr>
                 <td>
-                    <button onclick="dis('0')">0</button>
+                    <button id="one" onclick="show1()">1</button>
                 </td>
                 <td>
-                    <button onclick="dis('.')">.</button>
+                    <button id="two" onclick="show2()">2</button>
                 </td>
                 <td>
-                    <button class="equalsToBtn" onclick="solve()">=</button>
+                    <button id="three" onclick="show3()">3</button>
+                </td>
+                <td>
+                    <button style="color: deepskyblue;" onclick="plus()">+</button>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button id="zero" onclick="show0()">0</button>
+                </td>
+                <td>
+                    <button id="dot" onclick="dot()">.</button>
+                </td>
+                <td>
+                    <button id="equals" onclick="solve()">=</button>
                 </td>
             </tr>
         </table>
