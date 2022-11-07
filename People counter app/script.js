@@ -8,7 +8,6 @@ function increment() {
     countEl.textContent = count
     /* My version
     document.getElementById('count-el').innerText = count = count + 1 */
-
 } 
 
 function decrement() {
@@ -19,7 +18,7 @@ function decrement() {
 function save() {
     let countStr = count + ' - ';
     saveEl.textContent += ' ' + countStr;
-    totalEl.textContent = "TOTAL: "
+    totalEl.textContent = count
     countEl.textContent = 0;
     count = 0;
 }
