@@ -64,6 +64,16 @@ freeCodeCamp.org JavaScript Programming - Full Course <a dir="auto" href="https:
 <img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Pinturas%20do%20Gabriel/assets/images/imagem%20site.png" height="500px">
 <br></br>
 <hr>
+<h3>Pedra papel tesoura - Rock Paper Scissors</h3>
+<hr>
+<br>
+<p>Source: 
+freeCodeCamp.org Learn JavaScript by Building 7 Games - Full Course - Full Course <a dir="auto" href="https://www.youtube.com/watch?v=ec8vSKJuZTk&list=PLHBqO5T3Wo_Qtj2SphsNnRCFTAAndj-VN&index=19&t=153s">Youtube link</a></p>
+<h3><a dir="auto" href="https://gabriel-anesi.github.io/_Projetos/Rock%20Paper%20Scissors">Acessar página</a></h3>
+</br><br>
+<img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Rock%20Paper%20Scissors/images/imagem%20site.png" height="500px">
+<br></br>
+<hr>
 <h3>Sorteador de personagem do Paladins - Paladins Character draw</h3>
 <hr>
 <br>
@@ -72,6 +82,5 @@ freeCodeCamp.org JavaScript Programming - Full Course <a dir="auto" href="https:
 <img src="https://github.com/gabriel-anesi/_Projetos/blob/master/Sorteador%20de%20personagem/images/imagem%20do%20site%203.png" height="500px">
 <br></br>
 <hr>
-
 
 </div>
