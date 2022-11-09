@@ -10,9 +10,7 @@ const paladinsChampions = ["Androxus", "Ash", "Atlas",
 "Vivian", "Vora", "Willo", "Yagorath", "Ying", "Zhin"];
 
 function sortear() {
-    const randomChampion = paladinsChampions[Math.floor(Math.random() * paladinsChampions.length)]; 
-    for (let i = 0; i <= paladinsChampions.length; i++){
+    const randomChampion = paladinsChampions[Math.floor(Math.random() * paladinsChampions.length)];
     document.getElementById("campeao").innerText = randomChampion;
-    }
     return randomChampion;
 }
